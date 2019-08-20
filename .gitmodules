@@ -1,0 +1,7 @@
+[submodule "themes/lanyon"]
+	path = themes/lanyon
+	url = git@github.com:tummychow/lanyon-hugo.git
+[submodule "public"]
+	path = public
+	url = git@github.com:tahsinrahman/tahsinrahman.github.io.git
+	branch = master
